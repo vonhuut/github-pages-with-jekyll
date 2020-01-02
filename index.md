@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to vnu's blog
 
-I'm glad you are here. I plan to talk about ...
+i'm following the trainning searial of lab.github
